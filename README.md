@@ -11,7 +11,6 @@
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ismarsi-matheus&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📌 Conhecimentos:
-
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -21,7 +20,6 @@
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=csharp&logoColor=purple)
 
 ## 🛠 Ferramentas:
-
 ![Git](https://img.shields.io/badge/GIT-321435?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-321435?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
@@ -43,9 +41,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ismarsi-matheus/ismarsi-matheus/output/github-snake.svg">
 </picture>
 
-
 ## 📚 Estudando no Momento:
-
 ![PHP](https://img.shields.io/badge/PHP-321435?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/PYTHON-321435?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/JAVA-321435?style=for-the-badge&logo=java&logoColor=red)
