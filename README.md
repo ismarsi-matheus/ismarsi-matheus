@@ -19,16 +19,16 @@
 
 ## 🧠 Sobre mim
 🎓 Estudante de Engenharia da Computação e Técnico em Tecnologia da Informação (Senac Americana).  
-📚 Atualmente focado em **PHP, Laravel, Banco de Dados, Java e React**.  
+📚 Atualmente focado em **TypeScript, React.js e Node.js**.  
 🎯 Meu objetivo é evoluir como desenvolvedor **Back-end**, aplicando boas práticas e segurança.  
-🚀 Apaixonado por **cybersecurity, programação e tecnologia**.  
+🚀 Apaixonado por **redes, hardware e programação**.  
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Conhecimentos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,postgres,python,cs,java,react,nodejs" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,javascript,typescript,react,nodejs,cs,dotnet,python,mysql,postgres,tailwind" alt="Conhecimentos" />
 </div>
 
 ---
@@ -36,7 +36,7 @@
 ## 🧰 Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,bootstrap,canva,ps,arduino,wordpress" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,bootstrap,arduino,wordpress" alt="Ferramentas" />
 </div>
 
 ---
@@ -44,7 +44,7 @@
 ## 📘 Atualmente estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,docker,aws,linux" alt="Estudos Atuais" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs" alt="Estudos Atuais" />
 </div>
 
 ---
@@ -80,10 +80,3 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismarsi-matheus/ismarsi-matheus/output/github-contribution-grid-snake.svg"> 
 </picture>
 </div>
-
----
-
-## 🔥 Contador de Visitas
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fismarsi-matheus&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
-</p>
