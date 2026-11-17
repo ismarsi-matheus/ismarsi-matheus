@@ -18,17 +18,26 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🧠 Sobre mim
-🎓 Estudante de Engenharia da Computação e Técnico em Tecnologia da Informação (Senac Americana).  
-📚 Atualmente focado em **TypeScript, React.js e Node.js**.  
-🎯 Meu objetivo é evoluir como desenvolvedor **Back-end**, aplicando boas práticas e segurança.  
-🚀 Apaixonado por **redes, hardware e programação**.  
+🎓 Estudante de Engenharia de Computação (Anhembi Morumbi) e Técnico em Tecnologia da Informação (Senac Americana).  
+💼 Experiência como estagiário no desenvolvimento de um **ERP industrial** (PCP, fiscal e financeiro) com **C#, Angular e SQL Server**.  
+🏭 Background na indústria (usinagem, logística e instrumentos de precisão), o que me ajuda a entender os processos que os sistemas atendem.  
+🌎 Inglês avançado.  
+📫 [LinkedIn](https://www.linkedin.com/in/matheus-ismarsi/)
+
+## ⭐ Projetos em destaque
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Cyber Security Lock](https://github.com/ismarsi-matheus/cyber-security-lock) | Gerenciador de senhas full stack com criptografia + painel admin desktop | PHP · MySQL · JS · C# .NET |
+| [Site de Fotos](https://github.com/ismarsi-matheus/site-fotos) | Fotos de eventos em tempo real no telão via QR code | JS · Cloudflare Workers · Vercel |
+| [Bastidor de Pedidos](https://github.com/ismarsi-matheus/Controle_encomenda) | Controle de encomendas personalizadas, feito para celular | HTML · CSS · JS |
+| [Bootcamp Barber](https://github.com/ismarsi-matheus/bootcamp-barber) | Agendamento para barbearias | Next.js · Prisma · Tailwind |
 
 ---
 
 ## 🚀 Conhecimentos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,javascript,typescript,react,nodejs,cs,dotnet,python,mysql,postgres,tailwind" alt="Conhecimentos" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,javascript,react,nodejs,php,html,css,python,mysql,postgres,tailwind" alt="Conhecimentos" />
 </div>
 
 ---
@@ -44,7 +53,7 @@
 ## 📘 Atualmente estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs" alt="Estudos Atuais" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript" alt="Estudos Atuais" />
 </div>
 
 ---
